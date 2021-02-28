@@ -1,0 +1,10 @@
+body
+{
+    margin:0;
+    padding: 0;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../image/img14.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
